@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
 	int number1, number2;
 	int sum = 0;
 
-    cout << "Please entered number 1 = ";
+        cout << "Please entered number 1 = ";
 	cin >> number1;
 
 	cout << "Please entered number 2 = ";
